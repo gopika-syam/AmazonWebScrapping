@@ -1,2 +1,2 @@
-# WebScrapping
-This repository contains a web scrapping projects.
+#AmazonWebScrapping
+This repository contains a web scrapping project on Amazon website based on search.
